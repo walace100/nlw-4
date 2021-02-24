@@ -5,11 +5,15 @@ semana do next level week
 
 `node >= 12.0.0`
 
+abra a pasta `api` e use os comandos:
 ## Instalação
 
 `npm install` ou `yarn install` 
 
+## Instalação do banco
+
+`npm typeorm migration:run` ou `yarn typeorm migration:run`
+
 ## Iniciação da API
 
-abra a pasta `api` e use o comando:
 `npm dev` ou `yarn dev`
