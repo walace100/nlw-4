@@ -17,3 +17,7 @@ abra a pasta `api` e use os comandos:
 ## Iniciação da API
 
 `npm dev` ou `yarn dev`
+
+## Iniciação de test (não recomendado)
+
+`npm test` ou `yarn test`
